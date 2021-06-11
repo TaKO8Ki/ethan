@@ -1,3 +1,6 @@
+mod disk_manager;
+mod page_id;
+
 #[cfg(test)]
 mod tests {
     #[test]
